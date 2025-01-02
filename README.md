@@ -25,17 +25,14 @@ You can find your Wallet Connector project ID at [Wallet Connect](https://cloud.
 
 ```sh
 # See https://portal.cdp.coinbase.com/products/onchainkit
-[NEXT_PUBLIC_CDP_API_KEY="GET_FROM_COINBASE_DEVELOPER_PLATFORM"
-](https://app.zerion.io/import?dataid=b5ccb455-29a7-4f92-8529-35c8e3e4871c#key=YsX_ukc4iIOYbxO2Tt39dA
-)
+NEXT_PUBLIC_CDP_API_KEY="GET_FROM_COINBASE_DEVELOPER_PLATFORM"
+
 # See https://cloud.walletconnect.com
 NEXT_PUBLIC_WC_PROJECT_ID="GET_FROM_WALLET_CONNECT"
 ```
 <br />
 
 ## Locally run
-[https://app.zerion.io/import?dataid=b5ccb455-29a7-4f92-8529-35c8e3e4871c#key=YsX_ukc4iIOYbxO2Tt39dA
-)
 
 ```sh
 # Install bun in case you don't have it
